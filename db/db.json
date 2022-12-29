@@ -2,5 +2,13 @@
     {
         "title": "Test Title",
         "text": "Test text"
+    },
+    {
+        "title": "Work On Monday",
+        "text": "Submit File"
+    },
+    {
+        "title": "Work On Tuesday",
+        "text": "Send Emails"
     }
 ]
